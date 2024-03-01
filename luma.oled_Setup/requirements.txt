@@ -1,0 +1,7 @@
+setuptools
+disutils
+wheel
+luma.oled
+Adafruit-SSD1306 
+Adafruit-BBIO 
+psutil
