@@ -14,7 +14,7 @@
 [ ] - For an automatical-Install , just chmod a+x installer.sh and run : 
 
 ```sh
-sudo ./installer.sh  !
+sudo ./installer.sh  
 ```
 
 [ ] - But dont forget to activate i2c in raspi-config / armbian-config !!!
